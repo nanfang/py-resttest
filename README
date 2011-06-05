@@ -1,1 +1,8 @@
 Python tools to simplify REST API tests
+
+TODOs:
+4. implement verification
+5. implement context
+6. implement depends
+7. get a suite run
+8. implement
